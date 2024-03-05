@@ -1,3 +1,4 @@
+# Source by Chien-Yu Chen@NTU  
 # HW1 - Image Segmentation
 In HW1, the task involves segmenting input images into multiple parts, referred to as segments. Your objective for this assignment is to utilize Union-Find algorithm(s) to effectively extract key information about these segments from the input image.
 
